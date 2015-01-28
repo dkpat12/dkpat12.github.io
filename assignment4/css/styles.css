@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*To accomadate the fixed nav bar*/
+body {
+	padding-top: 70px;
+}
