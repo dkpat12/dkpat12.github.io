@@ -1,0 +1,26 @@
+/* CSS Document */
+
+
+footer.container:before {
+	content:" ";
+	border-bottom: solid #666 1px;
+	width: 400px;
+	height: 1px;
+	
+}
+
+.page-footer p {
+	font-size: 14px;
+}
+.page-footer hr {
+	border-top: 1px solid #666;
+	width:60%;
+}
+
+.content-a {
+	background-color:#031634;
+}
+
+.content-b {
+	background-color:#033649;
+}
