@@ -1,4 +1,4 @@
-/* CSS Document */
+/* Color Palette http://www.colourlovers.com/palette/292482/Terra */
 
 
 footer.container:before {
@@ -6,7 +6,6 @@ footer.container:before {
 	border-bottom: solid #666 1px;
 	width: 400px;
 	height: 1px;
-	
 }
 
 .page-footer p {
@@ -23,4 +22,20 @@ footer.container:before {
 
 .content-b {
 	background-color:#033649;
+}
+
+.navbar-toggle .icon-bar {
+	background-color:#FFFFFF;
+}
+
+.profile-picture {
+	background:url(../img/profile_dillion_patrick.jpg);
+	background-position:center;
+	background-size:contain;
+	width:auto;
+	margin:2px auto;
+	padding:125px;
+	max-width:250px;
+	max-height:250px;
+	border-radius:50%;
 }
