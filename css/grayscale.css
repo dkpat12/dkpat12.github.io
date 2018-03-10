@@ -7,8 +7,8 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: Merriweather,Georgia,"Times New Roman",Times,serif;
-    color: #E8DDCB;
+    font-family: 'Roboto', sans-serif;
+    color: #F2EFEA;
     background-color: #031634;
 }
 
@@ -26,7 +26,7 @@ h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1px;
 }
 
@@ -70,7 +70,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .navbar-custom .navbar-brand:focus {
